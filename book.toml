@@ -1,0 +1,6 @@
+[book]
+authors = ["Khushit Shah"]
+language = "en"
+multilingual = false
+src = "src"
+title = "SuperChessEngine"
