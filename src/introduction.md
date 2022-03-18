@@ -26,6 +26,8 @@ SuperChessEngine aims to:
 
 Following diagram depicts simple structure of SuperChessEngine:
 
+![EngineStructure](https://user-images.githubusercontent.com/62668186/159009943-f3e57e83-b61a-42ba-9c50-8e501f4826aa.png)
+
 
 
 ## Features
@@ -34,4 +36,5 @@ Following diagram depicts simple structure of SuperChessEngine:
 - Being UCI compliant enables it to be used by any chess GUI program as a chess engine. 
 - SuperChessEngine is also uploaded as a chess [bot](https://lichess.org/@/SuperChessEngineV1) on [Lichess](https://lichess.org/).
 
+![working](https://user-images.githubusercontent.com/62668186/159010136-520cb265-9760-4749-830f-bab81ec1712f.png)
 
