@@ -1,4 +1,4 @@
-# Chapter 1
+# Development of SuperChessEngine
 
 ## Alphabeta pruning
 
