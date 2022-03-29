@@ -1,17 +1,12 @@
 # Introduction
 
 ## What is SuperChessEngine?
-<p style="text-align: center; width: 100%; display: block">
-<img src = "https://user-images.githubusercontent.com/62668186/159037002-b996e609-3888-44b9-b70d-8e2c82b99228.jpg" />
-</p>
+<img src = "https://user-images.githubusercontent.com/62668186/159037002-b996e609-3888-44b9-b70d-8e2c82b99228.jpg" width="300px" height="350px" />
 
 SuperChessEngine is a chess engine inspired by AlphaZero developed by Google, which was able to defeat the famous Stockfish engine with only 4 hours of training.
 
 It has better evaluation function for a given chess position by removing hard-coded values in the Static Evaluator in the current chess engine. It also tries to reduce the number of unnecessary positions being searched by using intuition based move
 ordering.
-    </td>
-  </tr>
-</table>
 
 [Github code Repository](https://github.com/superchessengine/sce)
 
