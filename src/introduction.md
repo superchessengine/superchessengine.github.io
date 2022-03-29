@@ -1,13 +1,9 @@
 # Introduction
 
-<table>
-  <tr>
-   <td>
-     <img src = "https://user-images.githubusercontent.com/62668186/159037002-b996e609-3888-44b9-b70d-8e2c82b99228.jpg" width ="1000px"> </img>
-    </td>
-
-<td>
-  <h2> What is SuperChessEngine ? </h2>
+## What is SuperChessEngine?
+<p style="text-align: center; width: 100%; display: block">
+<img src = "https://user-images.githubusercontent.com/62668186/159037002-b996e609-3888-44b9-b70d-8e2c82b99228.jpg" />
+</p>
 
 SuperChessEngine is a chess engine inspired by AlphaZero developed by Google, which was able to defeat the famous Stockfish engine with only 4 hours of training.
 
